@@ -16,6 +16,6 @@ jobs:
            context: ./src
            file: ./src/Dockerfile
            push: true
-           tags: |
-             brokeoligarchy/live-kube-news:v1
-             brokeoligarchy/live-kube-news:latest
+           #tags: |
+           #  brokeoligarchy/live-kube-news:v1
+           #  brokeoligarchy/live-kube-news:latest
