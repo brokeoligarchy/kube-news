@@ -24,6 +24,6 @@ jobs:
            file: ./src/Dockerfile
            push: true
            tags: |
-             brokeoligarchy/kube-news:v1
+             brokeoligarchy/kube-news:${{github.run_number}}
              brokeoligarchy/kube-news:latest
              
