@@ -25,3 +25,4 @@ jobs:
            tags: |
              brokeoligarchy/kube-news:v1
              brokeoligarchy/kube-news:latest
+             
