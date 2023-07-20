@@ -17,5 +17,5 @@ jobs:
            file: ./src/Dockerfile
            push: true
            tags: |
-             vinileoni/live-kube-news:v1
-             vinileoni/live-kube-news:latest
+             brokeoligarchy/live-kube-news:v1
+             brokeoligarchy/live-kube-news:latest
